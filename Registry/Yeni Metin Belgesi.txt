@@ -1,0 +1,11 @@
+SHVY-3LE9-TMNH-7K5L-JN73
+  if (rectangleShape1 != null && rectangleShape1.Focus())
+            {
+                txtLocationX.Text = rectangleShape1.Location.X.ToString();
+                txtLocationY.Text = rectangleShape1.Location.Y.ToString();
+                txtHeight.Text = rectangleShape1.Height.ToString();
+                txtWidth.Text = rectangleShape1.Width.ToString();
+
+            }
+166 537
+153 550

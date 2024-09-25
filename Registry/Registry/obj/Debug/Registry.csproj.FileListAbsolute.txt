@@ -1,0 +1,26 @@
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\bin\Debug\Registry.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\bin\Debug\Registry.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\bin\Debug\Registry.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\obj\Debug\Registry.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\obj\Debug\Registry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\obj\Debug\Registry.Form1.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\obj\Debug\Registry.Properties.Resources.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\obj\Debug\Registry.csproj.GenerateResource.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\obj\Debug\Registry.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\obj\Debug\Registry.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\obj\Debug\Registry.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\obj\Debug\Registry.Form3.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Registry\Registry\obj\Debug\Registry.Form2.resources
+C:\Desktop\C#\Form\Registry\Registry\bin\Debug\Registry.exe.config
+C:\Desktop\C#\Form\Registry\Registry\bin\Debug\Registry.exe
+C:\Desktop\C#\Form\Registry\Registry\bin\Debug\Registry.pdb
+C:\Desktop\C#\Form\Registry\Registry\obj\Debug\Registry.csproj.AssemblyReference.cache
+C:\Desktop\C#\Form\Registry\Registry\obj\Debug\Registry.csproj.SuggestedBindingRedirects.cache
+C:\Desktop\C#\Form\Registry\Registry\obj\Debug\Registry.Form1.resources
+C:\Desktop\C#\Form\Registry\Registry\obj\Debug\Registry.Form2.resources
+C:\Desktop\C#\Form\Registry\Registry\obj\Debug\Registry.Form3.resources
+C:\Desktop\C#\Form\Registry\Registry\obj\Debug\Registry.Properties.Resources.resources
+C:\Desktop\C#\Form\Registry\Registry\obj\Debug\Registry.csproj.GenerateResource.cache
+C:\Desktop\C#\Form\Registry\Registry\obj\Debug\Registry.csproj.CoreCompileInputs.cache
+C:\Desktop\C#\Form\Registry\Registry\obj\Debug\Registry.exe
+C:\Desktop\C#\Form\Registry\Registry\obj\Debug\Registry.pdb

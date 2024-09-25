@@ -26,3 +26,17 @@ C:\Users\Ramin\OneDrive\Masaüstü\CorelDraw\CorelDraw\obj\Debug\CorelDraw.cspro
 C:\Users\Ramin\OneDrive\Masaüstü\CorelDraw\CorelDraw\obj\Debug\CorelDraw.csproj.CopyComplete
 C:\Users\Ramin\OneDrive\Masaüstü\CorelDraw\CorelDraw\obj\Debug\CorelDraw.exe
 C:\Users\Ramin\OneDrive\Masaüstü\CorelDraw\CorelDraw\obj\Debug\CorelDraw.pdb
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\bin\Debug\CorelDraw.exe.config
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\bin\Debug\CorelDraw.exe
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\bin\Debug\CorelDraw.pdb
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\obj\Debug\CorelDraw.csproj.AssemblyReference.cache
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\obj\Debug\CorelDraw.csproj.SuggestedBindingRedirects.cache
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\obj\Debug\CorelDraw.Form1.resources
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\obj\Debug\CorelDraw.Properties.Resources.resources
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\obj\Debug\CorelDraw.csproj.GenerateResource.cache
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\obj\Debug\CorelDraw.csproj.CoreCompileInputs.cache
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\obj\Debug\CorelDraw.csproj.CopyComplete
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\obj\Debug\CorelDraw.exe
+C:\Desktop\C#\Form\CorelDraw\CorelDraw\obj\Debug\CorelDraw.pdb

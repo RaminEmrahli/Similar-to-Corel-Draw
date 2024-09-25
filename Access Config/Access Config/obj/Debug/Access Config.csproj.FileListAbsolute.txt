@@ -1,0 +1,32 @@
+D:\c# Windows Forms\Access Config\Access Config\bin\Debug\Access Config.exe.config
+D:\c# Windows Forms\Access Config\Access Config\bin\Debug\Access Config.exe
+D:\c# Windows Forms\Access Config\Access Config\bin\Debug\Access Config.pdb
+D:\c# Windows Forms\Access Config\Access Config\obj\Debug\Access Config.csproj.AssemblyReference.cache
+D:\c# Windows Forms\Access Config\Access Config\obj\Debug\Access Config.csproj.SuggestedBindingRedirects.cache
+D:\c# Windows Forms\Access Config\Access Config\obj\Debug\Access_Config.Form1.resources
+D:\c# Windows Forms\Access Config\Access Config\obj\Debug\Access_Config.Properties.Resources.resources
+D:\c# Windows Forms\Access Config\Access Config\obj\Debug\Access Config.csproj.GenerateResource.cache
+D:\c# Windows Forms\Access Config\Access Config\obj\Debug\Access Config.csproj.CoreCompileInputs.cache
+D:\c# Windows Forms\Access Config\Access Config\obj\Debug\Access Config.exe
+D:\c# Windows Forms\Access Config\Access Config\obj\Debug\Access Config.pdb
+C:\Users\C#\Desktop\Access Config\Access Config\bin\Debug\Access Config.exe.config
+C:\Users\C#\Desktop\Access Config\Access Config\bin\Debug\Access Config.exe
+C:\Users\C#\Desktop\Access Config\Access Config\bin\Debug\Access Config.pdb
+C:\Users\C#\Desktop\Access Config\Access Config\obj\Debug\Access Config.csprojAssemblyReference.cache
+C:\Users\C#\Desktop\Access Config\Access Config\obj\Debug\Access_Config.Form1.resources
+C:\Users\C#\Desktop\Access Config\Access Config\obj\Debug\Access_Config.Properties.Resources.resources
+C:\Users\C#\Desktop\Access Config\Access Config\obj\Debug\Access Config.csproj.GenerateResource.cache
+C:\Users\C#\Desktop\Access Config\Access Config\obj\Debug\Access Config.csproj.CoreCompileInputs.cache
+C:\Users\C#\Desktop\Access Config\Access Config\obj\Debug\Access Config.exe
+C:\Users\C#\Desktop\Access Config\Access Config\obj\Debug\Access Config.pdb
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\bin\Debug\Access Config.exe.config
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\bin\Debug\Access Config.exe
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\bin\Debug\Access Config.pdb
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\obj\Debug\Access Config.csproj.AssemblyReference.cache
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\obj\Debug\Access Config.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\obj\Debug\Access_Config.Form1.resources
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\obj\Debug\Access_Config.Properties.Resources.resources
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\obj\Debug\Access Config.csproj.GenerateResource.cache
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\obj\Debug\Access Config.csproj.CoreCompileInputs.cache
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\obj\Debug\Access Config.exe
+C:\Users\Ramin\OneDrive\Masaüstü\Access Config\Access Config\obj\Debug\Access Config.pdb

@@ -1,0 +1,33 @@
+D:\c# Windows Forms\Command example\Command example\bin\Debug\Command example.exe.config
+D:\c# Windows Forms\Command example\Command example\bin\Debug\Command example.exe
+D:\c# Windows Forms\Command example\Command example\bin\Debug\Command example.pdb
+D:\c# Windows Forms\Command example\Command example\obj\Debug\Command example.csproj.AssemblyReference.cache
+D:\c# Windows Forms\Command example\Command example\obj\Debug\Command example.csproj.SuggestedBindingRedirects.cache
+D:\c# Windows Forms\Command example\Command example\obj\Debug\Command_example.Form1.resources
+D:\c# Windows Forms\Command example\Command example\obj\Debug\Command_example.Properties.Resources.resources
+D:\c# Windows Forms\Command example\Command example\obj\Debug\Command example.csproj.GenerateResource.cache
+D:\c# Windows Forms\Command example\Command example\obj\Debug\Command example.csproj.CoreCompileInputs.cache
+D:\c# Windows Forms\Command example\Command example\obj\Debug\Command example.exe
+D:\c# Windows Forms\Command example\Command example\obj\Debug\Command example.pdb
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\bin\Debug\Command example.exe.config
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\bin\Debug\Command example.exe
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\bin\Debug\Command example.pdb
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\obj\Debug\Command example.csproj.AssemblyReference.cache
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\obj\Debug\Command example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\obj\Debug\Command_example.Form1.resources
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\obj\Debug\Command_example.Properties.Resources.resources
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\obj\Debug\Command example.csproj.GenerateResource.cache
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\obj\Debug\Command example.csproj.CoreCompileInputs.cache
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\obj\Debug\Command example.exe
+C:\Users\Ramin\OneDrive\Masaüstü\Command example\Command example\obj\Debug\Command example.pdb
+C:\Desktop\C#\Form\Command example\Command example\bin\Debug\Command example.exe.config
+C:\Desktop\C#\Form\Command example\Command example\bin\Debug\Command example.exe
+C:\Desktop\C#\Form\Command example\Command example\bin\Debug\Command example.pdb
+C:\Desktop\C#\Form\Command example\Command example\obj\Debug\Command example.csproj.AssemblyReference.cache
+C:\Desktop\C#\Form\Command example\Command example\obj\Debug\Command example.csproj.SuggestedBindingRedirects.cache
+C:\Desktop\C#\Form\Command example\Command example\obj\Debug\Command_example.Form1.resources
+C:\Desktop\C#\Form\Command example\Command example\obj\Debug\Command_example.Properties.Resources.resources
+C:\Desktop\C#\Form\Command example\Command example\obj\Debug\Command example.csproj.GenerateResource.cache
+C:\Desktop\C#\Form\Command example\Command example\obj\Debug\Command example.csproj.CoreCompileInputs.cache
+C:\Desktop\C#\Form\Command example\Command example\obj\Debug\Command example.exe
+C:\Desktop\C#\Form\Command example\Command example\obj\Debug\Command example.pdb

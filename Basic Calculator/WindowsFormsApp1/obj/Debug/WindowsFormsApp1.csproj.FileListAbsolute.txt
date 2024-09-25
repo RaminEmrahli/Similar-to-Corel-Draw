@@ -1,0 +1,51 @@
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-GB\WindowsFormsApp1.resources.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.en-GB.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\en-GB\WindowsFormsApp1.resources.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-GB\WindowsFormsApp1.resources.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.en-GB.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\en-GB\WindowsFormsApp1.resources.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c# form\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Desktop\C#\Form\Basic Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Desktop\C#\Form\Basic Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Desktop\C#\Form\Basic Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Desktop\C#\Form\Basic Calculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

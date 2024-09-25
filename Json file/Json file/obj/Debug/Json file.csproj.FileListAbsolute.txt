@@ -1,0 +1,124 @@
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\obj\Debug\Json file.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\obj\Debug\Json file.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\obj\Debug\Json_file.Properties.Resources.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\obj\Debug\Json file.csproj.GenerateResource.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\obj\Debug\Json file.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\Json file.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\Json file.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\Json file.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Buffers.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Memory.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Text.Json.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Buffers.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Memory.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Text.Json.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\obj\Debug\Json file.csproj.CopyComplete
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\obj\Debug\Json file.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\obj\Debug\Json file.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\Json file\Json file\obj\Debug\Json_file.Form1.resources
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\Json file.exe.config
+C:\Users\C#\Desktop\Json file\Json file\obj\Debug\Json file.exe
+C:\Users\C#\Desktop\Json file\Json file\obj\Debug\Json file.pdb
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\Json file.exe
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\Json file.pdb
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\mscorlib.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Buffers.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Memory.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Text.Json.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.ValueTuple.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Buffers.xml
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Memory.xml
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Text.Json.xml
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\System.ValueTuple.xml
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\normidna.nlp
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\normnfc.nlp
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\normnfd.nlp
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\normnfkc.nlp
+C:\Users\C#\Desktop\Json file\Json file\bin\Debug\normnfkd.nlp
+C:\Users\C#\Desktop\Json file\Json file\obj\Debug\Json file.csprojResolveAssemblyReference.cache
+C:\Users\C#\Desktop\Json file\Json file\obj\Debug\Json_file.Form1.resources
+C:\Users\C#\Desktop\Json file\Json file\obj\Debug\Json_file.Properties.Resources.resources
+C:\Users\C#\Desktop\Json file\Json file\obj\Debug\Json file.csproj.GenerateResource.Cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\Json file.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\Json file.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\Json file.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Buffers.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Memory.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Text.Json.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Buffers.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Memory.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Text.Json.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\obj\Debug\Json file.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\obj\Debug\Json file.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\obj\Debug\Json_file.Form1.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\obj\Debug\Json_file.Properties.Resources.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\obj\Debug\Json file.csproj.GenerateResource.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\obj\Debug\Json file.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\obj\Debug\Json file.csproj.CopyComplete
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\obj\Debug\Json file.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\Json file\Json file\obj\Debug\Json file.pdb
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\Json file.exe.config
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\Json file.exe
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\Json file.pdb
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Buffers.dll
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Memory.dll
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Numerics.Vectors.dll
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Text.Encodings.Web.dll
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Text.Json.dll
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.ValueTuple.dll
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Buffers.xml
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Memory.xml
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Numerics.Vectors.xml
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Text.Encodings.Web.xml
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Text.Json.xml
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Desktop\C#\Form\Json file\Json file\bin\Debug\System.ValueTuple.xml
+C:\Desktop\C#\Form\Json file\Json file\obj\Debug\Json file.csproj.AssemblyReference.cache
+C:\Desktop\C#\Form\Json file\Json file\obj\Debug\Json file.csproj.SuggestedBindingRedirects.cache
+C:\Desktop\C#\Form\Json file\Json file\obj\Debug\Json_file.Form1.resources
+C:\Desktop\C#\Form\Json file\Json file\obj\Debug\Json_file.Properties.Resources.resources
+C:\Desktop\C#\Form\Json file\Json file\obj\Debug\Json file.csproj.GenerateResource.cache
+C:\Desktop\C#\Form\Json file\Json file\obj\Debug\Json file.csproj.CoreCompileInputs.cache
+C:\Desktop\C#\Form\Json file\Json file\obj\Debug\Json file.csproj.CopyComplete
+C:\Desktop\C#\Form\Json file\Json file\obj\Debug\Json file.exe
+C:\Desktop\C#\Form\Json file\Json file\obj\Debug\Json file.pdb

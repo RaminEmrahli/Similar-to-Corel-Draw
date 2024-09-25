@@ -1,0 +1,16 @@
+C:\Desktop\C#\Form\SDF1\bin\Debug\SDF1.exe.config
+C:\Desktop\C#\Form\SDF1\bin\Debug\SDF1.exe
+C:\Desktop\C#\Form\SDF1\bin\Debug\SDF1.pdb
+C:\Desktop\C#\Form\SDF1\bin\Debug\Newtonsoft.Json.dll
+C:\Desktop\C#\Form\SDF1\bin\Debug\Newtonsoft.Json.xml
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.csproj.AssemblyReference.cache
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.csproj.SuggestedBindingRedirects.cache
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.Form1.resources
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.FrmOrders.resources
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.Properties.Resources.resources
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.csproj.GenerateResource.cache
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.csproj.CoreCompileInputs.cache
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.csproj.CopyComplete
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.exe
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.pdb
+C:\Desktop\C#\Form\SDF1\obj\Debug\SDF1.FrmMehsul.resources

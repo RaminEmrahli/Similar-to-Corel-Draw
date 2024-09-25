@@ -1,0 +1,14 @@
+C:\Desktop\C#\Form\Datalar\bin\Debug\net6.0\Datalar.deps.json
+C:\Desktop\C#\Form\Datalar\bin\Debug\net6.0\Datalar.runtimeconfig.json
+C:\Desktop\C#\Form\Datalar\bin\Debug\net6.0\Datalar.dll
+C:\Desktop\C#\Form\Datalar\bin\Debug\net6.0\Datalar.pdb
+C:\Desktop\C#\Form\Datalar\obj\Debug\net6.0\Datalar.csproj.AssemblyReference.cache
+C:\Desktop\C#\Form\Datalar\obj\Debug\net6.0\Datalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\C#\Form\Datalar\obj\Debug\net6.0\Datalar.AssemblyInfoInputs.cache
+C:\Desktop\C#\Form\Datalar\obj\Debug\net6.0\Datalar.AssemblyInfo.cs
+C:\Desktop\C#\Form\Datalar\obj\Debug\net6.0\Datalar.csproj.CoreCompileInputs.cache
+C:\Desktop\C#\Form\Datalar\obj\Debug\net6.0\Datalar.dll
+C:\Desktop\C#\Form\Datalar\obj\Debug\net6.0\refint\Datalar.dll
+C:\Desktop\C#\Form\Datalar\obj\Debug\net6.0\Datalar.pdb
+C:\Desktop\C#\Form\Datalar\obj\Debug\net6.0\Datalar.genruntimeconfig.cache
+C:\Desktop\C#\Form\Datalar\obj\Debug\net6.0\ref\Datalar.dll

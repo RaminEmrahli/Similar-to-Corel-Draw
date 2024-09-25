@@ -1,0 +1,14 @@
+C:\Desktop\C#\Form\KenanNIhat.Data\bin\Debug\net6.0\KenanNIhat.Data.deps.json
+C:\Desktop\C#\Form\KenanNIhat.Data\bin\Debug\net6.0\KenanNIhat.Data.runtimeconfig.json
+C:\Desktop\C#\Form\KenanNIhat.Data\bin\Debug\net6.0\KenanNIhat.Data.dll
+C:\Desktop\C#\Form\KenanNIhat.Data\bin\Debug\net6.0\KenanNIhat.Data.pdb
+C:\Desktop\C#\Form\KenanNIhat.Data\obj\Debug\net6.0\KenanNIhat.Data.csproj.AssemblyReference.cache
+C:\Desktop\C#\Form\KenanNIhat.Data\obj\Debug\net6.0\KenanNIhat.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\C#\Form\KenanNIhat.Data\obj\Debug\net6.0\KenanNIhat.Data.AssemblyInfoInputs.cache
+C:\Desktop\C#\Form\KenanNIhat.Data\obj\Debug\net6.0\KenanNIhat.Data.AssemblyInfo.cs
+C:\Desktop\C#\Form\KenanNIhat.Data\obj\Debug\net6.0\KenanNIhat.Data.csproj.CoreCompileInputs.cache
+C:\Desktop\C#\Form\KenanNIhat.Data\obj\Debug\net6.0\KenanNIhat.Data.dll
+C:\Desktop\C#\Form\KenanNIhat.Data\obj\Debug\net6.0\refint\KenanNIhat.Data.dll
+C:\Desktop\C#\Form\KenanNIhat.Data\obj\Debug\net6.0\KenanNIhat.Data.pdb
+C:\Desktop\C#\Form\KenanNIhat.Data\obj\Debug\net6.0\KenanNIhat.Data.genruntimeconfig.cache
+C:\Desktop\C#\Form\KenanNIhat.Data\obj\Debug\net6.0\ref\KenanNIhat.Data.dll

@@ -1,0 +1,11 @@
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\Ramin\OneDrive\Masaüstü\C#\Form\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb

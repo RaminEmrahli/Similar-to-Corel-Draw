@@ -1,0 +1,15 @@
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\bin\Debug\explorer.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\bin\Debug\explorer.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\bin\Debug\explorer.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\obj\Debug\explorer.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\obj\Debug\explorer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\obj\Debug\explorer.Form1.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\obj\Debug\explorer.Properties.Resources.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\obj\Debug\explorer.csproj.GenerateResource.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\obj\Debug\explorer.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\obj\Debug\explorer.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\explorer\explorer\obj\Debug\explorer.pdb
+C:\Desktop\C#\Form\explorer\explorer\obj\Debug\explorer.csproj.AssemblyReference.cache
+C:\Desktop\C#\Form\explorer\explorer\obj\Debug\explorer.csproj.SuggestedBindingRedirects.cache
+C:\Desktop\C#\Form\explorer\explorer\obj\Debug\explorer.exe
+C:\Desktop\C#\Form\explorer\explorer\obj\Debug\explorer.pdb
