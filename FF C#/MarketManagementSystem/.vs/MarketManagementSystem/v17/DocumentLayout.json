@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|c:\\desktop\\c#\\form\\ff c#\\marketmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|c:\\desktop\\c#\\form\\ff c#\\marketmanagementsystem\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\frmshopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmshopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|c:\\desktop\\c#\\form\\ff c#\\marketmanagementsystem\\frmbaskets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmbaskets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EF8BE-63CD-44B5-9FCD-B6711D82E7F2}|..\\ShoppingData\\ShoppingData.csproj|c:\\desktop\\c#\\form\\ff c#\\shoppingdata\\implementations\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|c:\\desktop\\c#\\form\\ff c#\\marketmanagementsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|c:\\desktop\\c#\\form\\ff c#\\marketmanagementsystem\\frmshopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmshopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\frmbaskets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmbaskets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\frmcontactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmcontactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\frmadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5796B7B-6FF6-4F9A-8E07-35417D347CA8}|MarketManagementSystem.csproj|solutionrelative:frmadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:19:31.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmShopping.cs",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmShopping.cs",
+              "RelativeDocumentMoniker": "FrmShopping.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmShopping.cs",
+              "RelativeToolTip": "FrmShopping.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:14:45.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmMain.cs",
+              "RelativeToolTip": "FrmMain.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:14:21.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\ShoppingData\\Implementations\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingData\\Implementations\\BasketRepository.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\ShoppingData\\Implementations\\BasketRepository.cs",
+              "RelativeToolTip": "..\\ShoppingData\\Implementations\\BasketRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:13:39.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOrder.cs",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmOrder.cs",
+              "RelativeDocumentMoniker": "FrmOrder.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmOrder.cs",
+              "RelativeToolTip": "FrmOrder.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswFYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:13:11.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBaskets.cs",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmBaskets.cs",
+              "RelativeDocumentMoniker": "FrmBaskets.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmBaskets.cs",
+              "RelativeToolTip": "FrmBaskets.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:12:14.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmShopping.cs [Design]",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmShopping.cs",
+              "RelativeDocumentMoniker": "FrmShopping.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmShopping.cs [Design]",
+              "RelativeToolTip": "FrmShopping.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:12:06.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmOrder.cs",
+              "RelativeDocumentMoniker": "FrmOrder.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmOrder.cs [Design]",
+              "RelativeToolTip": "FrmOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:12:05.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmMain.cs [Design]",
+              "RelativeToolTip": "FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:12:04.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmLogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmLogIn.cs",
+              "RelativeDocumentMoniker": "FrmLogIn.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmLogIn.cs [Design]",
+              "RelativeToolTip": "FrmLogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:12:03.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmContactUs.cs [Design]",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmContactUs.cs",
+              "RelativeDocumentMoniker": "FrmContactUs.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmContactUs.cs [Design]",
+              "RelativeToolTip": "FrmContactUs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:12:02.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmBaskets.cs [Design]",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmBaskets.cs",
+              "RelativeDocumentMoniker": "FrmBaskets.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmBaskets.cs [Design]",
+              "RelativeToolTip": "FrmBaskets.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:12:00.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmAdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmAdminPanel.cs",
+              "RelativeDocumentMoniker": "FrmAdminPanel.cs",
+              "ToolTip": "C:\\Desktop\\C#\\Form\\FF C#\\MarketManagementSystem\\FrmAdminPanel.cs [Design]",
+              "RelativeToolTip": "FrmAdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:11:58.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
